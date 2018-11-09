@@ -3,7 +3,7 @@ Open access, gold standard subsample of Kildin Saami corpus data for evaluation,
 
 Version: pre-alpha (not released)
 
-# Data
+## Data
 The corpus data published here consists of a subsample of data collected and annotated by the [Kola Saami Documentation Project](http://dobes.mpi.nl/projects/sami/) and subsequent projects. Conventions for data structure and annotations are found in our [FRechdoc repository](https://github.com/langdoc/FRechdoc/).
 
 Whereas the present data include only our minimal annotations and contextual metadata, there might be relevant additional kinds of annotations and metadata in the [Multimedia Archive](https://hdl.handle.net/1839/00-0000-0000-0005-8A34-E@view)  of the Kola Saami Documentation Project, where the original session data is stored. Also linked multimedia data - if available - is only found in the archive.
