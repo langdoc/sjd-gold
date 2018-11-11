@@ -8,6 +8,8 @@ The corpus data published here consists of a subsample of data collected and ann
 
 Whereas the present data include only our minimal annotations and contextual metadata, there might be relevant additional kinds of annotations and metadata in the [Multimedia Archive](https://hdl.handle.net/1839/00-0000-0000-0005-8A34-E@view)  of the Kola Saami Documentation Project, where the original session data is stored. Also linked multimedia data - if available - is only found in the archive.
 
+Personal data is removed or anonymized if it occurs in the texts; personal metadata is restricted to minimal information (encoded name, modified birth year, gender, place of birth).
+
 ## Re-use
 Once released, the data will be available under a CC-BY licence. Please use the following reference:
 `
