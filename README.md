@@ -12,7 +12,8 @@ Personal data is removed or anonymized if it occurs in the texts; personal metad
 
 ## Re-use
 Once released, the data will be available under a CC-BY licence. Please use the following reference:
-`
+
+```
 @incollection{KSDP,
 	Author = {Rie{\ss}ler, Michael},
 	Booksubtitle = {{DoBeS} archive},
@@ -26,7 +27,7 @@ Once released, the data will be available under a CC-BY licence. Please use the 
 	Title = {Kola {S}aami {D}ocumentation {P}roject},
 	Url = {https://hdl.handle.net/1839/00-0000-0000-0005-8A34-E@view},
 	Year = {2005--2018}}
-`
+```
 
 
 
